@@ -29,6 +29,5 @@
   <img height="40em" src="https://profile-counter.glitch.me/Maars1337/count.svg" />
 </p>
 
-<!-
+
 - [![paypal.me/ozapii](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/ozapii)
--->
