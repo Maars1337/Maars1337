@@ -18,7 +18,7 @@
 ### <p align="center">👁️‍🗨️ &nbsp;Cliquez pour rejoindre le discord</p>
 
 <p align="center">
-  <a href="https://discord.gg/bluetown" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="50" width="50"/></a>
+  <a href="https://discord.gg/pMS6qpcCbM" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="50" width="50"/></a>
 </p>
 
 -----
