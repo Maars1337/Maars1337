@@ -13,15 +13,6 @@
   </a>
 </p>
 
------
-
-<p align="center"> Mon Discord</p>
-
-<p align="center">
-- [![Discord](https://lanyard.cnrad.dev/api/589734630731808819)](https://discord.com/users/589734630731808819)
-
------
-
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
@@ -30,3 +21,4 @@
 
 
 - [![paypal.me/ozapii](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/ozapii)
+- [![Discord](https://lanyard.cnrad.dev/api/589734630731808819)](https://discord.com/users/589734630731808819)
