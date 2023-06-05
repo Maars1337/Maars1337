@@ -16,6 +16,6 @@
 
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
-<p align="center">
+<p align="left">
   <img height="40em" src="https://profile-counter.glitch.me/Maars1337/count.svg" />
 </p>
