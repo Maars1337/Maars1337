@@ -1,9 +1,9 @@
-### <p align="center">Maars</p>
+<p align="center">Maars</p>
 -----
 
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+<p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <div>
-### <p align="center"></p>
+ <p align="center"></p>
 
 <p align="left">
   <a href="https://github.com/Maars1337">
