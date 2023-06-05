@@ -2,7 +2,7 @@
 
 -----
 
-<p align="center">⚙️ &nbsp;Mes Statistiques</p>
+### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <div>
  <p align="center"></p>
 
