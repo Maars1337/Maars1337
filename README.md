@@ -2,7 +2,7 @@
 
 -----
 
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+### <p align="center">⚙️・ &nbsp;Mes Statistiques</p>
 <div>
  <p align="center"></p>
 
@@ -14,8 +14,8 @@
   </a>
 </p>
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+### <p align="center">👀・ &nbsp;Visiteurs</p>
 <br>
 <p align="left">
-  <img height="40em" src="https://profile-counter.glitch.me/Maars1337/count.svg" />
+  <img height="20em" src="https://profile-counter.glitch.me/Maars1337/count.svg" />
 </p>
