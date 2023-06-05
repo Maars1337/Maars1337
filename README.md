@@ -15,7 +15,10 @@
 
 -----
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/589734630731808819)](https://discord.com/users/589734630731808819)
+<p align="center"> Mon Discord</p>
+
+<p align="center">
+- [![https://home.rebornv.fr](https://lanyard.cnrad.dev/api/589734630731808819)](https://discord.com/users/589734630731808819)
 
 -----
 
