@@ -6,7 +6,7 @@
 
 ### <p align="center"></p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Maars1337">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maars1337&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=fr"/>
     <div>
