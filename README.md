@@ -1,9 +1,9 @@
 ### <p align="center">Maars</p>
-
+<div>
 -----
 
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
-
+<div>
 ### <p align="center"></p>
 
 <p align="left">
