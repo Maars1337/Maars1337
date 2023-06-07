@@ -1,14 +1,6 @@
 ### <p align="center">Maars</p>
 
-----
-
-<div align="center">
-	<br>
-	<a href="https://github.com/Maars1337/readme-css/blob/main/banniere.svg">
-		<img src="banniere.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
+-----
 
 -----
 
