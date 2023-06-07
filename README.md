@@ -2,8 +2,6 @@
 
 -----
 
------
-
 ### <p align="center">⚙️・Mes Statistiques</p>
 <div>
  <p align="center"></p>
